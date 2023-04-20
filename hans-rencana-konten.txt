@@ -1,5 +1,8 @@
 Rencana Konten Hans
 -belajar fundamental javascript
+-belajar data struktur javascript
+-belajar framework javascript
 -project dengan Java Script
   *dengan framework javascript
 -project QA
+ *belajar tools QA
