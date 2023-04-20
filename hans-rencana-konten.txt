@@ -1,4 +1,5 @@
 Rencana Konten Hans
+-belajar fundamental javascript
 -project dengan Java Script
   *dengan framework javascript
 -project QA
