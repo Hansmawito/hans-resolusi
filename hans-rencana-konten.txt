@@ -1,0 +1,3 @@
+Rencana Konten Hans
+-project dengan Java Script
+-project QA
