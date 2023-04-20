@@ -1,5 +1,6 @@
 Rencana Konten Hans
+-belajar HTML & CSS
 -belajar fundamental javascript
 -project dengan Java Script
   *dengan framework javascript
--project QA
+-Fundamental QA
